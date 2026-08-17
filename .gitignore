@@ -1,0 +1,21 @@
+# Generated diagnostic evidence
+system-health-*.json
+*.evtx
+*.etl
+*.log
+evidence/
+artifacts/
+
+# Credentials and local configuration
+.env
+*.key
+*.pfx
+credentials*.json
+service-account*.json
+
+# Editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+__pycache__/

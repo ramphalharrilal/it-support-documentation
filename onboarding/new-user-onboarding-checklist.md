@@ -70,3 +70,4 @@ Use a test process that does not expose the user's password:
 ## Least Privilege Reminder
 
 Access should match the user's approved job duties. Do not copy another employee's permissions without verification, and do not grant privileged access merely for convenience.
+
