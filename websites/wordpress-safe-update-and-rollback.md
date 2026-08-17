@@ -76,3 +76,4 @@ Rollback when a defined critical test fails and a safe correction cannot be comp
 - A payment, authentication, privacy, or security function fails.
 - Malware, unauthorized administrator accounts, or unexpected file changes are discovered.
 - Production access or changes exceed the support role.
+

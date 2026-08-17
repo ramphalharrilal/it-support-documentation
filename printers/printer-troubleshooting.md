@@ -89,3 +89,4 @@ Print a test page and the user's original document. Confirm correct printer sele
 - Hardware damage, repeated jams, leaks, smoke, unusual heat, or electrical concerns exist.
 - Administrative access, driver packaging, print-server changes, or vendor repair is required.
 - The issue returns after a documented fix.
+

@@ -79,3 +79,4 @@ Do not perform account, mailbox, endpoint, or network changes beyond your author
 ## Ticket Notes
 
 Record scope, impact, timeline, user actions, evidence location, containment, escalation destination, and communication. Classify the ticket according to security policy and restrict access to sensitive incident details.
+
